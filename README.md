@@ -35,7 +35,7 @@
 **步骤：**
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/<your-username>/beat-lab.git
+git clone https://github.com/Liu-Zhaorui/beat-lab.git
 cd beat-lab
 
 # 2. 获取依赖
